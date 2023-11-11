@@ -7,7 +7,7 @@
 }
 
 body {
-  align-items: center;
+  align-items: stretch;
   background-image: url("../images/desenhos-afros-para-imprimir-300x207.jpg");
   display: flow-root;
   justify-content: center;
