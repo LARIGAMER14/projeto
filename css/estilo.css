@@ -9,6 +9,7 @@
 body {
   align-items: center;
   background-image: url("../images/desenhos-afros-para-imprimir-300x207.jpg");
+  background-position: center;
   display: flex;
   justify-content: center;
   flex-direction: column;
