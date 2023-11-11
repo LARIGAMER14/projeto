@@ -10,7 +10,7 @@ body {
   align-items: center;
   background-image: url("../images/desenhos-afros-para-imprimir-300x207.jpg");
   display: flow-root;
-  justify-content: space-between;
+  justify-content: center;
   flex-direction: column;
   font-family: 'Montserrat', sans-serif;
   min-height: 100vh;
