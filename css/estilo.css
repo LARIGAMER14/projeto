@@ -9,11 +9,11 @@
 body {
   align-items: center;
   background-image: url("../20231117211952492.jpg");
-  display: flex;
+  display: inline;
   justify-content: center;
   flex-direction: column;
   font-family: 'Montserrat', sans-serif;
-  min-height: 50vh;
+  min-height: 100vh;
 }
 
 h1 {
